@@ -2,7 +2,7 @@
 
 ## Hello, good thing to see you here.
 
-I made this site as a project of my React learning. Sorta novice level, but I learnt a lot of things. Big shout out to @NitelPhyoe [0] who gave me the idea.
+I made this site as a project of my React learning. Sorta novice level, but I learnt a lot of things. Big shout out to [@NitelPhyoe](https://github.com/NitelPhyoe)[0] who gave me the idea.
 
 ## How things work
 
