@@ -1,5 +1,3 @@
-# How this Site is Made
+# Announcement
 
-[Home](/)
-
-_will be updated later lmao_
+**Update**: The about post is landed, read it [here](/blog/tech/how-this-site-is-made).
