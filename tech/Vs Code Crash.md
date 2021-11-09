@@ -1,3 +1,3 @@
 # Here come the pic
 
-![vs code crash](../assets/vs-code-crash.png)
+![vs code crash](https://github.com/agmyintmyatoo/BlogPosts/blob/main/assets/vs-code-crash.png)
